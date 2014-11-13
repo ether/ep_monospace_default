@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "monospace_default",
+      "client_hooks": {
+        "postAceInit": "ep_monospace_default/static/js/monospace:postAceInit"
+      }
+    }
+  ]
+}

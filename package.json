@@ -1,0 +1,52 @@
+{
+  "name": "ep_monospace_default",
+  "description": "Make the font default to Monospace in Etherpad Lite",
+  "homepage": "https://github.com/johnyma22/ep_monospace_default",
+  "keywords": [
+    "monospace",
+    "font",
+    "default",
+    "code",
+    "syntax"
+  ],
+  "author": {
+    "name": "John McLear",
+    "email": "john@mclear.co.uk",
+    "url": "http://mclear.co.uk"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnyma22/ep_monospace_default.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_id": "ep_monospace_default@0.0.1",
+  "_engineSupported": true,
+  "_npmVersion": "1.1.59",
+  "_nodeVersion": "v0.8.8",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "401ff570430edb5eef48f47c1870729a83b3d586",
+    "tarball": "http://registry.npmjs.org/ep_monospace_default/-/ep_monospace_default-0.0.1.tgz"
+  },
+  "_from": "ep_monospace_default@*",
+  "readme": "ERROR: No README.md file found!",
+  "_npmUser": {
+    "name": "johnyma22",
+    "email": "john@mclear.co.uk"
+  },
+  "maintainers": [
+    {
+      "name": "johnyma22",
+      "email": "john@mclear.co.uk"
+    }
+  ],
+  "directories": {},
+  "_shasum": "401ff570430edb5eef48f47c1870729a83b3d586",
+  "_resolved": "https://registry.npmjs.org/ep_monospace_default/-/ep_monospace_default-0.0.1.tgz"
+}
