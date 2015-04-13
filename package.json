@@ -1,6 +1,6 @@
 {
   "name": "ep_monospace_default",
-  "description": "Make the font default to Monospace in Etherpad Lite",
+  "description": "DO NOT USE THIS: Make the font default to Monospace in Etherpad Lite",
   "homepage": "https://github.com/johnmclear/ep_monospace_default",
   "keywords": [
     "monospace",
@@ -14,7 +14,7 @@
     "email": "john@mclear.co.uk",
     "url": "http://mclear.co.uk"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/johnmclear/ep_monospace_default.git"
