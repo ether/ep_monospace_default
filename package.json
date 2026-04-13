@@ -14,7 +14,7 @@
     "email": "john@mclear.co.uk",
     "url": "http://mclear.co.uk"
   },
-  "version": "0.0.45",
+  "version": "0.0.46",
   "repository": {
     "type": "git",
     "url": "https://github.com/ether/ep_monospace_default.git"
